@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Nikhil Bommakanti
+:wave:
 
-You can use the [editor on GitHub](https://github.com/nbommakanti/nbommakanti.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## About
+...
+- [Flickr](https://www.flickr.com/photos/nikhilbommakanti/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Books
+- Enlightenment Now
+- Fooled by Randomness
+- Good Economics for Hard Times
+- Moonwalking with Einstein
+- Cosmos
+- Complications
+- Bad Blood
+- The Martian
 
-### Markdown
+## Research
+- [Template](https://github.com/nbommakanti/research_template) and [description](https://nbommakanti.github.io/research_workflow/)
+- [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Bommakanti%2C+Nikhil%5BAuthor%5D&sort=)
+- [Google Scholar](https://scholar.google.com/citations?user=t2hu_9gAAAAJ&hl=en)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nbommakanti/nbommakanti.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Other
+- [Useful statistics, programming, research links](https://github.com/nbommakanti/useful)
+- [linkedin](https://www.linkedin.com/in/nikhilbommakanti/)
